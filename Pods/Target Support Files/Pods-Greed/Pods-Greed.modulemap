@@ -1,0 +1,6 @@
+framework module Pods_Greed {
+  umbrella header "Pods-Greed-umbrella.h"
+
+  export *
+  module * { export * }
+}
